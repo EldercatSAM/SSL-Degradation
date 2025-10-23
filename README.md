@@ -3,7 +3,7 @@
 
 A PyTorch implementation of Dense Representation Structure Estimator (DSE). For details, see our paper: 
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?style=flat)](https://arxiv.org/abs/2503.15096)
+[![paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?style=flat)](https://arxiv.org/abs/2510.17299)
 
 **Exploring Structural Degradation in Dense Representations for Self-supervised Learning (NeurIPS 2025)**
 
